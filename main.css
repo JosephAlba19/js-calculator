@@ -10,7 +10,9 @@ body {
   align-items: center; }
 
 .calc {
-  width: 380px; }
+  width: 380px;
+  border-radius: 16px 16px 16px 16px;
+  box-shadow: 0px 2px 10px gray; }
   .calc__display {
     background: #c4c4c4;
     padding: 0px 15px;
