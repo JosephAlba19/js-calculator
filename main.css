@@ -38,5 +38,7 @@ body {
       opacity: 0; }
     .calc__actions .action {
       background: lightgreen; }
+    .calc__actions .operator {
+      background: #A5F2F3; }
 
 /*# sourceMappingURL=main.css.map */
